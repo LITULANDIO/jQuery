@@ -1,0 +1,2 @@
+-Crear un sistema de análisis
+de secciones clikadas en una pagina
